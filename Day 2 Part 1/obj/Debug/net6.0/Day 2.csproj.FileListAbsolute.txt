@@ -1,0 +1,15 @@
+/Users/andrew/Documents/AoC_21/Day 2/obj/Debug/net6.0/Day 2.csproj.AssemblyReference.cache
+/Users/andrew/Documents/AoC_21/Day 2/obj/Debug/net6.0/Day 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew/Documents/AoC_21/Day 2/obj/Debug/net6.0/Day 2.AssemblyInfoInputs.cache
+/Users/andrew/Documents/AoC_21/Day 2/obj/Debug/net6.0/Day 2.AssemblyInfo.cs
+/Users/andrew/Documents/AoC_21/Day 2/obj/Debug/net6.0/Day 2.csproj.CoreCompileInputs.cache
+/Users/andrew/Documents/AoC_21/Day 2/bin/Debug/net6.0/Day 2
+/Users/andrew/Documents/AoC_21/Day 2/bin/Debug/net6.0/Day 2.deps.json
+/Users/andrew/Documents/AoC_21/Day 2/bin/Debug/net6.0/Day 2.runtimeconfig.json
+/Users/andrew/Documents/AoC_21/Day 2/bin/Debug/net6.0/Day 2.dll
+/Users/andrew/Documents/AoC_21/Day 2/bin/Debug/net6.0/ref/Day 2.dll
+/Users/andrew/Documents/AoC_21/Day 2/bin/Debug/net6.0/Day 2.pdb
+/Users/andrew/Documents/AoC_21/Day 2/obj/Debug/net6.0/Day 2.dll
+/Users/andrew/Documents/AoC_21/Day 2/obj/Debug/net6.0/ref/Day 2.dll
+/Users/andrew/Documents/AoC_21/Day 2/obj/Debug/net6.0/Day 2.pdb
+/Users/andrew/Documents/AoC_21/Day 2/obj/Debug/net6.0/Day 2.genruntimeconfig.cache
